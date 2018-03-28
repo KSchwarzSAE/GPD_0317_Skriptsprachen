@@ -1,0 +1,3 @@
+Implementiere eine Fibionacci Funktion in Lua, welche einen Parameter nimmt, welcher angibt, wie viele Iterationen berechnet werden sollen.
+
+Implementiere die Funktion 2 Mal, einmal Iterativ einmal Rekursiv.
